@@ -8,12 +8,12 @@ if (!empty($_POST['Register'])) {
     if ($post['password'] == $post['password2']) {
         $date = date('Y-m-d');
         $password = md5($post['password']);
-        $sqlcek = "SELECT * FROM `startup`.`user` WHERE username = '$post[username]'";
-        $querycek = mysql_query($sqlcek);
-        $datauser = mysql_fetch_assoc($querycek);
-        if (!mysql_num_rows($querycek)) {
-            $sql = "INSERT INTO `startup`.`user`(`id_user`, `id_group`, `username`, `password`, `email`, `status`, `created_date`, `updated_date`) VALUES ('','3','$post[username]','$password','$post[email]','1','$date','')";
-            if (mysql_query($sql)) {
+        $sqlcek = "SELECT * FROM `kddr2jm4y36uf3p7`.`user` WHERE username = '$post[username]'";
+        $querycek = mysqli_query($sqlcek);
+        $datauser = mysqli_fetch_assoc($querycek);
+        if (!mysqli_num_rows($querycek)) {
+            $sql = "INSERT INTO `kddr2jm4y36uf3p7`.`user`(`id_user`, `id_group`, `username`, `password`, `email`, `status`, `created_date`, `updated_date`) VALUES ('','3','$post[username]','$password','$post[email]','1','$date','')";
+            if (mysqli_query($sql)) {
                 $_SESSION['pesan'] = 'Data Berhasil disimpan, silahkan login menggunakan username dan password yang baru saja anda buat.';
                 $_SESSION['alert'] = 'alert-success';
             } else {
