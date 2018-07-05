@@ -38,13 +38,13 @@
                         <div class="logo_container footer_logo">
                             <div class="logo">
                                 <a href="#">
-                                    <div class="logo_line_1"><span>start</span>up</div>
-                                    <div class="logo_line_2">begin your own business</div>
+                                    <div class="logo_line_1"><span>start</span>invest</div>
+                                    <div class="logo_line_2">semakin mudah temukan startup & investor</div>
                                     <div class="logo_img"><img src="images/logo-1.png" alt=""></div>
                                 </a>
                             </div>
                         </div>
-                        <p class="footer_about_text">Sed ut iaculis elit, quis varius mauris. Integer ut ultricies orci, lobortis egestas sem. Morbi ut dapibus dui. Sed ut iaculis elit. Integer ut imperdiet erat. Quisque ultricies lectus tellus, eu tristique magna pharetra nec.</p>
+                        <p class="footer_about_text">Semakin banyaknya pemuda pemudi yang aktif dan kreatif dalam menciptakan ide ide untuk dijadikan startup oleh mereka kami membuat platform ini untuk memudahkannya menemukan investor demi keberlangsungan ide dan impian yang akan mereka capai.</p>
                     </div>
                 </div>
 
@@ -54,16 +54,11 @@
                         <div class="footer_title">Useful Links</div>
                         <ul>
                             <li><a href="#">Home</a></li>
-                            <li><a href="#">About</a></li>
-                            <li><a href="#">Case Studies</a></li>
-                            <li><a href="#">Services</a></li>
-                            <li><a href="#">Consulting</a></li>
-                            <li><a href="#">Commodities</a></li>
-                            <li><a href="#">Insurance</a></li>
-                            <li><a href="#">Trades</a></li>
-                            <li><a href="#">Planning</a></li>
-                            <li><a href="#">Finance</a></li>
-                            <li><a href="#">Crypto</a></li>
+                            <li><a href="#">Benefit</a></li>
+                            <li><a href="#">Event</a></li>
+                            <li><a href="#">About Us</a></li>
+                            <li><a href="#">Contact</a></li>
+                            
                         </ul>
                     </div>
                 </div>
@@ -76,7 +71,7 @@
                             <input type="email" class="footer_newsletter_input" placeholder="Your E-mail" required="required">
                             <button class="footer_newsletter_button" type="submit">subscribe</button>
                         </form>
-                        <div class="footer_newsletter_text">Sed ut iaculis elit, quis varius mauris. Integer ut ultricies orci, lobortis egestas sem. Morbi ut dapibus dui. Sed ut iaculis elit. Integer ut imperdiet erat. Quisque ultricies lectus tellus, eu tristique magna pharetra nec.</div>
+                        <div class="footer_newsletter_text">Dengan mengisi email anda diatas, maka anda akan mendapatkan info info terupdate dari website ini dan juga menerima kabar dari event yang akan diselenggarakan yang berhubungan dengan startup.</div>
                         <div class="footer_social">
                             <ul>
                                 <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>

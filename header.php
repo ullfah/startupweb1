@@ -10,8 +10,8 @@
                         <div class="logo_container">
                             <div class="logo">
                                 <a href="#">
-                                    <div class="logo_line_1"><span>start</span>up</div>
-                                    <div class="logo_line_2">begin your own business</div>
+                                    <div class="logo_line_1"><span>start</span>invest</div>
+                                    <div class="logo_line_2">semakin mudah termukan startup & investor</div>
                                     <div class="logo_img"><img src="images/logo-1.png" alt=""></div>
                                 </a>
                             </div>
@@ -41,129 +41,46 @@
                             <ul class="main_menu_list">
                                 <li class="active hassubs">
                                     <a href="#">home
-                                        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                                             width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
+                                        <!--svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                                             width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve"-->
                                             <g>
                                                 <polyline class="arrow_d" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="0.022,-0.178 4.5,4.331 9.091,-0.275   "/>
                                             </g>
                                         </svg>
                                     </a>
-                                    <ul>
-                                        <li><a href="#">Blockchain
-                                            <svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                                                 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
-                                                <g>
-                                                    <polyline class="arrow_d" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="0.022,-0.178 4.5,4.331 9.091,-0.275   "/>
-                                                </g>
-                                            </svg>
-                                        </a></li>
-                                        <li><a href="financial.html">Financial
-                                            <svg version="1.1" id="Layer_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                                                 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
-                                                <g>
-                                                    <polyline class="arrow_d" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="0.022,-0.178 4.5,4.331 9.091,-0.275   "/>
-                                                </g>
-                                            </svg>
-                                        </a></li>
-                                    </ul>
+                                   
                                 </li>
-                                <li><a href="about.html">about us
-                                    <svg version="1.1" id="Layer_4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                                <li><a href="about.html">benefit
+                                    <!--svg version="1.1" id="Layer_4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                                          width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
                                         <g>
-                                            <polyline class="arrow_d" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="0.022,-0.178 4.5,4.331 9.091,-0.275   "/>
+                                            <polyline class="arrow_d" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="0.022,-0.178 4.5,4.331 9.091,-0.275   "/-->
                                         </g>
                                     </svg>
                                 </a></li>
                                 <li class="hassubs">
-                                    <a href="services.html">services
-                                        <svg version="1.1" id="Layer_5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                                             width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
+                                    <a href="services.html">event
+                                        <!--svg version="1.1" id="Layer_5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                                             width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve"-->
                                             <g>
                                                 <polyline class="arrow_d" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="0.022,-0.178 4.5,4.331 9.091,-0.275   "/>
                                             </g>
                                         </svg>
                                     </a>
-                                    <ul>
-                                        <li><a href="#">Menu Item
-                                            <svg version="1.1" id="Layer_6" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                                                 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
-                                                <g>
-                                                    <polyline class="arrow_d" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="0.022,-0.178 4.5,4.331 9.091,-0.275   "/>
-                                                </g>
-                                            </svg>
-                                        </a></li>
-                                        <li><a href="#">Menu Item
-                                            <svg version="1.1" id="Layer_7" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                                                 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
-                                                <g>
-                                                    <polyline class="arrow_d" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="0.022,-0.178 4.5,4.331 9.091,-0.275   "/>
-                                                </g>
-                                            </svg>
-                                        </a></li>
-                                        <li><a href="#">Menu Item
-                                            <svg version="1.1" id="Layer_8" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                                                 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
-                                                <g>
-                                                    <polyline class="arrow_d" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="0.022,-0.178 4.5,4.331 9.091,-0.275   "/>
-                                                </g>
-                                            </svg>
-                                        </a></li>
-                                        <li><a href="#">Menu Item
-                                            <svg version="1.1" id="Layer_9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                                                 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
-                                                <g>
-                                                    <polyline class="arrow_d" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="0.022,-0.178 4.5,4.331 9.091,-0.275   "/>
-                                                </g>
-                                            </svg>
-                                        </a></li>
-                                    </ul>
+                                    
                                 </li>
                                 <li class="hassubs">
-                                    <a href="services.html">portfolio
-                                        <svg version="1.1" id="Layer_10" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                                             width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
+                                    <a href="services.html">about us
+                                        <!--svg version="1.1" id="Layer_10" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                                             width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve"-->
                                             <g>
                                                 <polyline class="arrow_d" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="0.022,-0.178 4.5,4.331 9.091,-0.275   "/>
                                             </g>
                                         </svg>
                                     </a>
-                                    <ul>
-                                        <li><a href="#">Menu Item
-                                            <svg version="1.1" id="Layer_11" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                                                 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
-                                                <g>
-                                                    <polyline class="arrow_d" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="0.022,-0.178 4.5,4.331 9.091,-0.275   "/>
-                                                </g>
-                                            </svg>
-                                        </a></li>
-                                        <li><a href="#">Menu Item
-                                            <svg version="1.1" id="Layer_12" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                                                 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
-                                                <g>
-                                                    <polyline class="arrow_d" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="0.022,-0.178 4.5,4.331 9.091,-0.275   "/>
-                                                </g>
-                                            </svg>
-                                        </a></li>
-                                        <li><a href="#">Menu Item
-                                            <svg version="1.1" id="Layer_13" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                                                 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
-                                                <g>
-                                                    <polyline class="arrow_d" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="0.022,-0.178 4.5,4.331 9.091,-0.275   "/>
-                                                </g>
-                                            </svg>
-                                        </a></li>
-                                        <li><a href="#">Menu Item
-                                            <svg version="1.1" id="Layer_14" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                                                 width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
-                                                <g>
-                                                    <polyline class="arrow_d" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="0.022,-0.178 4.5,4.331 9.091,-0.275   "/>
-                                                </g>
-                                            </svg>
-                                        </a></li>
-                                    </ul>
+                                    
                                 </li>
-                                <li><a href="news.html">blog
+                                <li><a href="news.html">contact
                                     <svg version="1.1" id="Layer_15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                                          width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
                                         <g>
@@ -171,14 +88,7 @@
                                         </g>
                                     </svg>
                                 </a></li>
-                                <li><a href="contact.html">contact
-                                    <svg version="1.1" id="Layer_16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                                         width="9px" height="5px" viewBox="0 0 9 5" enable-background="new 0 0 9 5" xml:space="preserve">
-                                        <g>
-                                            <polyline class="arrow_d" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="0.022,-0.178 4.5,4.331 9.091,-0.275   "/>
-                                        </g>
-                                    </svg>
-                                </a></li>
+                                
                             </ul>
                         </div>
                     </div>
@@ -217,7 +127,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col">
-                            <a href="about.html">about us</a>
+                            <a href="about.html">benefit</a>
                         </div>
                     </div>
                 </div>
@@ -226,7 +136,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col">
-                            <a href="listings.html">services</a>
+                            <a href="listings.html">event</a>
                         </div>
                     </div>
                 </div>
@@ -235,16 +145,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col">
-                            <a href="news.html">portfolio</a>
-                        </div>
-                    </div>
-                </div>
-            </li>
-            <li class="menu_item">
-                <div class="container">
-                    <div class="row">
-                        <div class="col">
-                            <a href="contact.html">blog</a>
+                            <a href="news.html">about us</a>
                         </div>
                     </div>
                 </div>
@@ -258,6 +159,7 @@
                     </div>
                 </div>
             </li>
+            
         </ul>
     </div>
 </header>
