@@ -461,7 +461,7 @@ section
 .top_bar_container
 {
 	width: 100%;
-	height: 86px;
+	height: 85px;
 }
 .logo_container
 {
@@ -469,14 +469,14 @@ section
 }
 .logo
 {
-	padding-left: 63px;
+	padding-left: 65px;
 }
 .logo_line_1
 {
 	font-family: 'gill', sans-serif;
 	font-size: 30px;
 	line-height: 0.75;
-	letter-spacing: 0.02em;
+	letter-spacing: 0.2em;
 	text-transform: uppercase;
 	color: #FFFFFF;
 }
@@ -489,14 +489,14 @@ section
 {
 	font-size: 11px;
 	color: #909090;
-	margin-top: -1px;
-	padding-left: 1px;
+	margin-top: 1px;
+	padding-left: 15px;
 }
 .logo_img
 {
 	position: absolute;
 	left: 0;
-	top: -10px;
+	top: -20px;
 	width: 57px;
 	height: 38px;
 }
@@ -611,7 +611,7 @@ section
 .main_menu_container
 {
 	width: 100%;
-	height: 85px;
+	height: 50px;
 }
 .main_menu_list > li
 {
@@ -632,7 +632,7 @@ section
 	display: block;
 	position: absolute;
 	bottom: 0;
-	left: -9px;
+	left: -5px;
 	width: calc(100% + 12px);
 	height: 3px;
 	background: #11100e;
@@ -650,7 +650,7 @@ section
 	font-size: 14px;
 	color: #FFFFFF;
 	text-transform: uppercase;
-	line-height: 85px;
+	line-height: 45px;
 	white-space: nowrap;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;

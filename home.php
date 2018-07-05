@@ -12,37 +12,7 @@
                 <div class="owl-item">
                     <div class="slider_background" style="background-image:url(images/home_slider_1.jpg)"></div>
                     <div class="home_slider_content text-center">
-                        <h1>A new World is coming</h1>
-                        <div class="home_slider_text">Donec vel ante rhoncus, posuere nulla quis, interdum nisi. Vestibulum laoreet lacinia diam, eget blandit sem gravida at.</div>
-                        <div class="link_button home_slider_button"><a href="#">read more</a></div>
-                    </div>
-                </div>
-
-                <!-- Slider Item -->
-                <div class="owl-item">
-                    <div class="slider_background" style="background-image:url(images/home_slider_1.jpg)"></div>
-                    <div class="home_slider_content text-center">
-                        <h1>A new World is coming</h1>
-                        <div class="home_slider_text">Donec vel ante rhoncus, posuere nulla quis, interdum nisi. Vestibulum laoreet lacinia diam, eget blandit sem gravida at.</div>
-                        <div class="link_button home_slider_button"><a href="#">read more</a></div>
-                    </div>
-                </div>
-
-                <!-- Slider Item -->
-                <div class="owl-item">
-                    <div class="slider_background" style="background-image:url(images/home_slider_1.jpg)"></div>
-                    <div class="home_slider_content text-center">
-                        <h1>A new World is coming</h1>
-                        <div class="home_slider_text">Donec vel ante rhoncus, posuere nulla quis, interdum nisi. Vestibulum laoreet lacinia diam, eget blandit sem gravida at.</div>
-                        <div class="link_button home_slider_button"><a href="#">read more</a></div>
-                    </div>
-                </div>
-
-                <!-- Slider Item -->
-                <div class="owl-item">
-                    <div class="slider_background" style="background-image:url(images/home_slider_1.jpg)"></div>
-                    <div class="home_slider_content text-center">
-                        <h1>A new World is coming</h1>
+                        <h1>Start Invest</h1>
                         <div class="home_slider_text">Donec vel ante rhoncus, posuere nulla quis, interdum nisi. Vestibulum laoreet lacinia diam, eget blandit sem gravida at.</div>
                         <div class="link_button home_slider_button"><a href="#">read more</a></div>
                     </div>
@@ -71,7 +41,7 @@
                     <div class="intro_content">
                         <div class="intro_title_container">
                             <div class="intro_subtitle">take a look at our</div>
-                            <h1 class="intro_title">Buy and Sell Bitcoin</h1>
+                            <h1 class="intro_title">Temukan kesepakatan kalian disini</h1>
                         </div>
                         <div class="intro_text">
                             <p>Morbi ut dapibus dui. Sed ut iaculis elit, quis varius mauris. Integer ut ultricies orci, lobortis egestas sem. Morbi ut dapibus dui. Sed ut iaculis elit.Morbi ut dapibus dui. Sed ut iaculis elit, quis varius mauris. Integer ut ultricies orci, lobo rtis egestas sem. Morbi ut dapibus dui. Sed ut iaculis elit. Morbi ut dapibus dui. Sed ut iaculis elit, quis varius mauris. Integer ut ultricies orci, lobortis egestas sem. Morbi ut dapibus dui. Sed ut iaculis elit.</p>
@@ -91,7 +61,7 @@
                 <div class="col">
                     <div class="section_title_container text-center">
                         <div class="section_subtitle">take a look at our</div>
-                        <div class="section_title">Latest News in Crypto</div>
+                        <div class="section_title">Keuntungan bergabung dengan START INVEST</div>
                     </div>
                 </div>
             </div>
