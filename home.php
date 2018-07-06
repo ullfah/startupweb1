@@ -13,8 +13,8 @@
                     <div class="slider_background" style="background-image:url(images/home_slider_1.jpg)"></div>
                     <div class="home_slider_content text-center">
                         <h1>Start Invest</h1>
-                        <div class="home_slider_text">Donec vel ante rhoncus, posuere nulla quis, interdum nisi. Vestibulum laoreet lacinia diam, eget blandit sem gravida at.</div>
-                        <div class="link_button home_slider_button"><a href="#">read more</a></div>
+                        <div class="home_slider_text">Mulailah berinvestasi dengan kami, optimis dan pantang mundur. Mulailah berkreasi sekreatif mungkin dan yakinlah pasti ada jalan mewujudkannya bersama kami.
+                    <div class="link_button home_slider_button"><a href="#">read more</a></div>
                     </div>
                 </div>
 
@@ -44,7 +44,7 @@
                             <h1 class="intro_title">Temukan kesepakatan kalian disini</h1>
                         </div>
                         <div class="intro_text">
-                            <p>Morbi ut dapibus dui. Sed ut iaculis elit, quis varius mauris. Integer ut ultricies orci, lobortis egestas sem. Morbi ut dapibus dui. Sed ut iaculis elit.Morbi ut dapibus dui. Sed ut iaculis elit, quis varius mauris. Integer ut ultricies orci, lobo rtis egestas sem. Morbi ut dapibus dui. Sed ut iaculis elit. Morbi ut dapibus dui. Sed ut iaculis elit, quis varius mauris. Integer ut ultricies orci, lobortis egestas sem. Morbi ut dapibus dui. Sed ut iaculis elit.</p>
+                            <p>Kami percaya bahwa menyamakan investor dengan institusi yang melakukan jual beli saham secara aktif sama dengan menyebut orang yang berulang kali terlibat dalam kencan semalam sebagai orang yang romantis (Warren Buffett)</p>
                         </div>
                         <div class="link_button intro_button"><a href="#">read more</a></div>
                     </div>
